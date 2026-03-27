@@ -5,7 +5,7 @@ so Statsitical analysis and hypotheiss testing were used with many methods on a 
 
 both Python and SQL were used.
 
-and i was able to identify key drivers with the statritical analysis and hypotheises testing, and enabled data driven decisions.
+and i was able to identify key drivers with the statistical analysis and hypotheises testing, and enabled data driven decisions.
 
 and we can summarize the results in:
 
