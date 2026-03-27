@@ -1,6 +1,6 @@
 Hello everyone
 
-This repository, will help a Computer shop about which factor that effect the sales of laptops, which inturn helps in optimiznig the shop's strategy in maximizing the revenues.
+This repository, will help a Computer shop about which factor that effect the sales of laptops, which in turn helps in optimiznig the shop's strategy in maximizing the revenues.
 so Statsitical analysis and hypotheiss testing were used with many methods on a dataset, and the comments are in english and german.
 
 both Python and SQL were used.
