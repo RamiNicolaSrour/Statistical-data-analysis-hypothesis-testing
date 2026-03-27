@@ -1,6 +1,6 @@
 Hello everyone
 
-This repository, will help a Computer shop about which factor that effect the sales of laptops, which in turn helps in optimiznig the shop's strategy in maximizing the revenues.
+This repository, will help a Laptops shop about which factor that effect the sales of laptops, which in turn helps in optimiznig the shop's strategy in maximizing the revenues.
 so Statsitical analysis and hypotheiss testing were used with many methods on a dataset, and the comments are in english and german.
 
 both Python and SQL were used.
@@ -18,7 +18,7 @@ the results can help in adivsing the shop to make a marketing strategy that high
 
 Hallo zusammen!
 
-Dieses Repository soll einem Computerladen helfen, die Faktoren zu ermitteln, die den Laptop-Absatz beeinflussen. Dies wiederum hilft dem Laden, seine Strategie zur Umsatzmaximierung zu optimieren.
+Dieses Repository soll einem Laptop Geschäft helfen, die Faktoren zu ermitteln, die den Laptop-Absatz beeinflussen. Dies wiederum hilft dem Laden, seine Strategie zur Umsatzmaximierung zu optimieren.
 
 Dazu wurden statistische Analysen und Hypothesentests mit verschiedenen Methoden auf einem Datensatz angewendet. Die Kommentare sind auf Englisch und Deutsch.
 Es wurden sowohl Python als auch SQL verwendet.
